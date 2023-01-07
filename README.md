@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Coder for India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiradityz&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiradityz" /> </p>
-
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47wbz5zcoztpu76fi4kejdtwlnftkbfpg8og9mlqo7&rid=giphy.gif&ct=g))
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiradityz" alt="jyotiradityz" /></a> </p>
 
 - 🔭 I’m currently working on [Great Bash Script](https://github.com/jyotiradityz/Bash_Scripts)
