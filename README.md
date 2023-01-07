@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotiraditya Patil <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="jyotiradityz" width="25" height="25" /> </h1>
-<h3 align="center">A passionate Coder for India</h3>
+<h3 align="center">A passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiradityz&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiradityz" /> </p>
 
