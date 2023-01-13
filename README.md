@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://github.com/jyotiradityz/jyotiradityz/blob/main/POKEMOn.jpg" height="600" width="1200" alt="jyotiradityz" />
+<p align="right"> <img src="https://github.com/jyotiradityz/jyotiradityz/blob/main/POKEMOn.jpg" height="520" width="1200" alt="jyotiradityz" />
 <h1 align="center">Hi 👋, I'm Jyotiraditya Patil <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="jyotiradityz" width="25" height="25" /> </h1>
 <h3 align="center">A passionate Coder and Gamer</h3>
 
