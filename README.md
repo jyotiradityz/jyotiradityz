@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiradityz" alt="jyotiradityz" /></a> </p> -->
 
+<img align="right" alt="Jyot" src="https://github.com/jyotiradityz/jyotiradityz/blob/main/Photos/BINBASH.gif">
 
 - 🔭 I’m currently working on [Great Bash Script](https://github.com/jyotiradityz/Bash_Scripts)
 
