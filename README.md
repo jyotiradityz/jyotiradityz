@@ -1,5 +1,6 @@
-<p align="right"> <img src="https://github.com/jyotiradityz/jyotiradityz/blob/main/Photos/POKEMON.png" height="450" width="1200" alt="jyotiradityz" />
-<h1 align="center">Hi 👋, I'm Jyotiraditya Patil <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="jyotiradityz" width="25" height="25" /> </h1>
+
+<h1 align="center">Hi 👋, I'm Jyotiraditya Patil <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="jyotiradityz" width="25" height="25" /> </h1><p align="right"> <img src="https://github.com/jyotiradityz/jyotiradityz/blob/main/Photos/POKEMON.png" height="450" width="1200" alt="jyotiradityz" />
+
 <h3 align="center">A passionate Coder and Gamer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiradityz&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiradityz" /> </p>
