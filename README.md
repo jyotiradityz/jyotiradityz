@@ -60,6 +60,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qyifwmwasuykmhe2sbx74l7wqy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
 <p>
   
+  
   <p align="center">
   <a align ="center" href="https://open.spotify.com/playlist/6Cv6WvL2qj6a88QzPpJaqj?si=89f868cdd90744a5" style="font-size: 50px">Checkout This Playlist</a>
   </p>
