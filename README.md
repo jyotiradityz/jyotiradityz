@@ -57,7 +57,7 @@
   <img  align=top flex-grow=1 src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />  
   </p>
    <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qyifwmwasuykmhe2sbx74l7wqy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rzyrndae6hgavqinsov7yp5zt4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
 <p>
   
   
