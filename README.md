@@ -26,6 +26,8 @@
   <a href="https://leetcode.com/jyot_150/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/jyot_150/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/jyot_150/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/jyot_150/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="jyot" height="200" width="200" /></a>
+  
   
  
 </p>
